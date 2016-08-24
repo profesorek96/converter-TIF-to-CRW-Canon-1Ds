@@ -13,6 +13,8 @@
 *.app/  
 *.pyc  
 *.log  
+*bin/
+*obj/
 
 #################  
 ## Code::Blocks  
