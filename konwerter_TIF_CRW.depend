@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1440494059 source:c:\users\krzysztof\desktop\nowy folder (10)\converter-tif-to-crw-canon-1ds\main.cpp
+	<iostream>
+	<dirent.h>
+	<conio.h>
+	<cstdio>
+
